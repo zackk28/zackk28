@@ -1,57 +1,66 @@
 # 👋 Hi, I'm Zack
 
-💻 A tech enthusiast who enjoys learning new things and building projects.
-🤖 I love creating **Discord Bots** and experimenting with automation.
-🌏 Based in **Indonesia**
+💻 A passionate developer who enjoys learning new technologies and building useful applications.
+🎓 Student of **D4 Software Engineering Technology** at **Department of Information Technology, Politeknik Negeri Padang**.
+🌏 Based in **Padang / West Sumatera / Indonesia**.
+
+---
+
+## 🎓 Education
+
+* **D4 Teknologi Rekayasa Perangkat Lunak**
+  Jurusan Teknologi Informasi
+  Politeknik Negeri Padang
 
 ---
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **JavaScript** and **TypeScript**
-* 🤖 Building and experimenting with **Discord Bots**
-* 🧠 Interested in **Web Development** and **Automation**
-* 📚 Always learning and improving coding skills
+* 💡 Interested in **Software Development and Web Development**
+* 🌱 Currently learning and improving programming skills
+* 🧠 Passionate about solving problems through technology
+* 🤝 Open to collaboration and learning opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Programming Languages
 
-### 💻 Languages
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge\&logo=php)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge\&logo=typescript)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+---
 
-### ⚙️ Tools
+## 🛠 Tools & Frameworks
 
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
-![DiscordJS](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge\&logo=discord)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
 ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge\&logo=gnubash)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge\&logo=laravel)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 🔥 What I'm Working On
+## 🔥 Current Focus
 
-* 🤖 Developing **Discord Bots**
-* 🌐 Learning **Backend Development**
-* ⚡ Building small automation tools
+* 🌐 Web Development
+* ⚙️ Backend Development with **PHP & Laravel**
+* 🧠 Learning algorithms and software engineering concepts
 
 ---
 
-## 🌟 Fun Fact
+## 🌟 Motto
 
-I enjoy turning simple ideas into working bots and useful tools.
+> *Keep learning, keep building, and keep improving.*
 
 ---
 
