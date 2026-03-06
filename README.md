@@ -2,22 +2,22 @@
 
 💻 A passionate developer who enjoys learning new technologies and building useful applications.
 🎓 Student of **D4 Software Engineering Technology** at **Department of Information Technology, Politeknik Negeri Padang**.
-🌏 Based in **Padang / West Sumatera / Indonesia**.
+🌏 Based in **Indonesia**.
 
 ---
 
 ## 🎓 Education
 
-* **D4 Teknologi Rekayasa Perangkat Lunak**
-  Jurusan Teknologi Informasi
-  Politeknik Negeri Padang
+**D4 Teknologi Rekayasa Perangkat Lunak**
+Jurusan Teknologi Informasi
+Politeknik Negeri Padang
 
 ---
 
 ## 🚀 About Me
 
-* 💡 Interested in **Software Development and Web Development**
-* 🌱 Currently learning and improving programming skills
+* 💡 Interested in **Software Development & Web Development**
+* 🌱 Currently improving programming skills
 * 🧠 Passionate about solving problems through technology
 * 🤝 Open to collaboration and learning opportunities
 
@@ -44,7 +44,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zackk28\&show_icons=true\&theme=tokyonight)
+![Zack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zackk28\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zackk28\&layout=compact\&theme=tokyonight)
 
@@ -53,15 +53,15 @@
 ## 🔥 Current Focus
 
 * 🌐 Web Development
-* ⚙️ Backend Development with **PHP & Laravel**
+* ⚙️ Backend Development using **PHP & Laravel**
 * 🧠 Learning algorithms and software engineering concepts
 
 ---
 
-## 🌟 Motto
+## ⭐ Motto
 
-> *Keep learning, keep building, and keep improving.*
+> Keep learning, keep building, and keep improving.
 
 ---
 
-⭐ Thanks for visiting my GitHub profile!
+⭐ Thanks for visiting my profile!
