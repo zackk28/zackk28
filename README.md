@@ -42,14 +42,6 @@ Politeknik Negeri Padang
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=zackk28)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zackk28&layout=compact)
-
----
-
 ## 🔥 Current Focus
 
 * 🌐 Web Development
