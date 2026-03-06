@@ -44,9 +44,9 @@ Politeknik Negeri Padang
 
 ## 📊 GitHub Stats
 
-![Zack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zackk28\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=zackk28)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zackk28\&layout=compact\&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zackk28&layout=compact)
 
 ---
 
