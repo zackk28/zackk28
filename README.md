@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zack
+# 👋 Hi, I'm Zackkk
 
 💻 A passionate developer who enjoys learning new technologies and building useful applications.
 🎓 Student of **D4 Software Engineering Technology** at **Department of Information Technology, Politeknik Negeri Padang**.
