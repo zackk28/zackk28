@@ -161,20 +161,6 @@ Through these roles, I gained experience in leadership, event planning, team coo
 
 ---
 
-## GitHub Streak
-
-<div align="center">
-
-<img 
-  src="https://streak-stats.demolab.com?user=zackk28&theme=tokyonight&hide_border=true" 
-  alt="GitHub Streak" 
-  width="70%" 
-/>
-
-</div>
-
----
-
 ## Learning Mindset
 
 I am still growing and improving every day. Every project, error, bug, and challenge is part of the process that helps me become a better developer.
